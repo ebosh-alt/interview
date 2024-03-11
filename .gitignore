@@ -1,8 +1,0 @@
-
-.idea
-*.iml
-out
-gen
-venv
-.gitignore
-__pycache__
