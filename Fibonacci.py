@@ -18,7 +18,3 @@ def bine(n: int) -> float:
     phi = ((1 + 5 ** 0.5) / 2)
     return ((phi ** n) - ((-phi) ** -n)) / 5 ** 0.5
 
-
-if __name__ == '__main__':
-    f = bine(1474)
-    print(f)

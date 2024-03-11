@@ -1,8 +1,4 @@
-import asyncio
-
 import aiohttp
-import requests
-
 from schemas.models import Quote, Coin, NotFound
 
 
